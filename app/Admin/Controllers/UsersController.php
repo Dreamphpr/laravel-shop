@@ -80,7 +80,7 @@ class UsersController extends Controller
             $grid->disableCreateButton();
 
             $grid->actions(function ($actions) {
-              
+
 
                 // 不在每一行后面展示删除按钮
                 $actions->disableDelete();
