@@ -78,8 +78,8 @@ return [
     |
     */
 
-    'locale' => 'zh_CN',
-    'faker_locale' => 'zh_CN',
+    'locale' => 'zh-CN',
+
     /*
     |--------------------------------------------------------------------------
     | Application Fallback Locale
@@ -92,7 +92,7 @@ return [
     */
 
     'fallback_locale' => 'en',
-
+    'faker_locale' => 'zh_CN',
     /*
     |--------------------------------------------------------------------------
     | Encryption Key
