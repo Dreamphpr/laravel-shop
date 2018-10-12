@@ -93,6 +93,7 @@ return [
 
     'fallback_locale' => 'en',
     'faker_locale' => 'zh_CN',
+    'order_ttl' => 1800,
     /*
     |--------------------------------------------------------------------------
     | Encryption Key
